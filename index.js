@@ -1,4 +1,5 @@
 const express = require("express");
+const cors = require('cors')
 const si = require("systeminformation");
 const port = 3000;
 
